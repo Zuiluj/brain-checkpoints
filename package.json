@@ -1,0 +1,14 @@
+{
+  "name": "brain-checkpoints",
+  "version": "1.0.0",
+  "description": "An app that shows checkpoints for the brain",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "private": false,
+  "devDependencies": {
+    "electron": "^37.4.0"
+  }
+}
