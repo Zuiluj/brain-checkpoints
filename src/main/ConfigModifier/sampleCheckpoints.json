@@ -1,0 +1,15 @@
+{
+  "name": "Painting Checkpoints",
+  "checkpoints": [
+    {
+      "id": 1,
+      "checkpoint": "values check!",
+      "tags": ["value"]
+    },
+    {
+      "id": 2,
+      "checkpoint": "zoom out!!",
+      "tags": ["construction"]
+    }
+  ]
+}
